@@ -1,4 +1,4 @@
-package com.fire.service;
+package com.notebook.service;
 
 import cn.hutool.core.codec.Base64;
 import com.alibaba.fastjson.JSON;
@@ -7,9 +7,9 @@ import com.arcsoft.face.enums.DetectMode;
 import com.arcsoft.face.enums.DetectOrient;
 import com.arcsoft.face.enums.ErrorInfo;
 import com.arcsoft.face.toolkit.ImageInfo;
-import com.fire.entity.User;
-import com.fire.repository.UserDao;
-import com.fire.util.Base64Util;
+import com.notebook.entity.User;
+import com.notebook.repository.UserDao;
+import com.notebook.util.Base64Util;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

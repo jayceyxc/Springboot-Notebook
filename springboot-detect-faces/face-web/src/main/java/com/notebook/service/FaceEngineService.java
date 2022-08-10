@@ -1,7 +1,7 @@
-package com.fire.service;
+package com.notebook.service;
 
 
-import com.fire.entity.User;
+import com.notebook.entity.User;
 
 public interface FaceEngineService {
 

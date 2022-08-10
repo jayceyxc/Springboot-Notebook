@@ -1,4 +1,4 @@
-package com.fire.util;
+package com.notebook.util;
 
 import org.apache.commons.lang.StringUtils;
 

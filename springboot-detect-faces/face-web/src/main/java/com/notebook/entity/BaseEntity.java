@@ -1,4 +1,4 @@
-package com.fire.entity;
+package com.notebook.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jdk.nashorn.internal.ir.annotations.Ignore;

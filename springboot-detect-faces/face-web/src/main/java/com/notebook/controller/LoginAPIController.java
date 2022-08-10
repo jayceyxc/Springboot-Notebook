@@ -1,7 +1,7 @@
-package com.fire.controller;
+package com.notebook.controller;
 
-import com.fire.base.Resp;
-import com.fire.service.FaceEngineService;
+import com.notebook.base.Resp;
+import com.notebook.service.FaceEngineService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.annotation.Validated;

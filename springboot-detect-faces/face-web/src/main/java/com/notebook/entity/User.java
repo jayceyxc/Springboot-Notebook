@@ -1,4 +1,4 @@
-package com.fire.entity;
+package com.notebook.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
